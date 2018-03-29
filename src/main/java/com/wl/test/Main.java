@@ -1,7 +1,7 @@
 package com.wl.test;
 
 public class Main {
-//sdfsdfsdf12124441212我修改2
+//sdfsdfsdf12124441212我修改3
 	public static void main(String[] args)  throws Exception{
 		Object lock = new Object();
 		
